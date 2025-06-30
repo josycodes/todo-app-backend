@@ -1,0 +1,28 @@
+{
+  "name": "todo-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josycodes/todo-app-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/josycodes/todo-app-backend/issues"
+  },
+  "homepage": "https://github.com/josycodes/todo-app-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.0.0",
+    "joi": "^17.13.3",
+    "knex": "^3.1.0",
+    "pg": "^8.16.3"
+  }
+}
